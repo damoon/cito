@@ -1,3 +1,5 @@
+**Deprecated in favor of [https://github.com/turbine-kreuzberg/php-package-cache](https://github.com/turbine-kreuzberg/php-package-cache)**
+
 # Cito
 
 ## installation
